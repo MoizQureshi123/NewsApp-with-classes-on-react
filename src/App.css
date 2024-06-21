@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.badge{
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 0; 
+  border: 2px solid black;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
